@@ -9,7 +9,7 @@
     <key>Input</key>
     <dict>
       <key>CATEGORY</key>
-      <string>%NAME%</string>
+      <string> 6. Self-Service Updates</string>
       <key>SMART_GROUP</key>
       <string>LessThanMostRecent_%NAME%</string>
       <key>SELFSERVE_POLICY</key>
@@ -19,7 +19,7 @@
     <key>MinimumVersion</key>
     <string>0.2.5</string>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.pkg.FlashPlayerExtractPackage</string>
+    <string>com.github.autopkg.download.FlashPlayer</string>
     <key>Process</key>
     <array>
       <dict>
