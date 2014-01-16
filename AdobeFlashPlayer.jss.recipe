@@ -19,7 +19,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0 </string>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.pkg.FlashPlayer</string>
+    <string>com.github.autopkg.pkg.FlashPlayerExtractPackage<</string>
     <key>Process</key>
     <array>
       <dict>
